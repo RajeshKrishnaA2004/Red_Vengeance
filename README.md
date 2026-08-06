@@ -113,12 +113,27 @@ git clone https://github.com/RajeshKrishnaA2004/Red_Vengeance.git
 ## 📸 Screenshots
 
 
-```
-/Screenshots
-    gameplay1.png
-    gameplay2.png
-    bossfight.png
-```
+### Image 1
+
+<p align="center">
+  <img src="Game_ScreenShot-1.png" width="800">
+</p>
+
+---
+
+### Image 2
+
+<p align="center">
+  <img src="Game_ScreenShot-2.png" width="800">
+</p>
+
+---
+
+### Enemy AI
+
+<p align="center">
+  <img src="Enemy AI.png" width="800">
+</p>
 
 ---
 
